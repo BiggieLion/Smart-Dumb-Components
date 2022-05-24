@@ -46,3 +46,4 @@ Para Angular, se utilizan los decoradores `@Input()` para indicar entrada de dat
   @Output() escapeKeyPressed = new EventEmitter();
 }
 ```
+![Diagrama simple de la aplicación de smart y dumbs components.](https://raw.githubusercontent.com/wiki/devonfw/devon4ng/images/smart-dumb-components-interaction.svg)
